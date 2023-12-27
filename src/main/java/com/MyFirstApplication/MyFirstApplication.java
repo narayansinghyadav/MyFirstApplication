@@ -11,7 +11,7 @@ import com.MyController;
 public class MyFirstApplication {
 
 	public static void main(String[] args) {
-		System.out.print("starting Springbbot App!!!!");
+		System.out.print("starting Springbbot Applicayionnnnn!!!!");
 		SpringApplication.run(MyFirstApplication.class, args);
 	}
 
