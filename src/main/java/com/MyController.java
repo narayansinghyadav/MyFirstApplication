@@ -12,6 +12,7 @@ public class MyController {
 	
 	@RequestMapping("/welcome")
 	public ModelAndView firstPage() {
+		System.out.print("hello");
 		return new ModelAndView("welcome");
 	}
 
